@@ -1,2 +1,43 @@
-# Ecommerce-Sales-Dashboard
-Power BI dashboard for analyzing e-commerce sales performance and profit trends
+
+# 📊 E-Commerce Sales Dashboard (Power BI)
+
+## 🧠 Project Overview
+This project is an interactive **E-Commerce Sales Dashboard** built using **Power BI** to visualize and analyze key business performance metrics.  
+It provides insights into sales, profit, quantity, and customer behavior — helping to make data-driven decisions effectively.
+
+---
+
+## 🚀 Key Insights
+- 💰 **Total Sales Amount:** ₹438K  
+- 💵 **Total Profit:** ₹37K  
+- 📦 **Total Quantity Sold:** 5615  
+- 📈 **Average Order Value (AOV):** ₹121K  
+- 🔍 Identified **top-performing months** and **regions**  
+- 📊 Breakdown of **sales by payment mode** and **product category**
+
+---
+
+## 📌 Dashboard Highlights
+- **Profit by Month:** Visualized monthly profit trends to track business performance  
+- **Profit by Sub-Category:** Top sub-categories like Printers and Bookcases contributed significantly  
+- **Quantity by Category:** Clothing holds the largest share (63%), followed by Electronics and Furniture  
+- **Sales by Payment Mode:** Cash on Delivery (COD) is the most preferred mode  
+- **Customer Analysis:** Top customers include Harivansh, Madhav, and Madan Mohan  
+- **State-wise Profit:** Maharashtra and Madhya Pradesh generate the highest profits
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Power BI** – Data visualization and dashboard creation  
+- **Excel / CSV Dataset** – Data source for analysis  
+- **Power Query** – Data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** – Custom measures and KPIs  
+
+---
+
+## 🎨 Dashboard Features
+- Interactive **Quarterly Filters (Q1 – Q4)** for time-based analysis  
+- Clean, modern **gradient-themed UI**  
+- Dynamic charts and KPIs for instant insights  
+- User-friendly design with actionable insights
+
